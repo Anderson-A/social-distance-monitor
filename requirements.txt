@@ -2,4 +2,4 @@ numpy==1.18.3
 scipy==1.4.1
 opencv-python==4.2.0.34
 imutils==0.5.3
-tensorflow==2.5.1
+tensorflow==2.9.3
